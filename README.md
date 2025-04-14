@@ -18,7 +18,7 @@ I’m a full-stack developer specializing in MERN (MongoDB, Express.js, React, N
 ## Thanks for visiting
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/idimetrix/count.svg">
+<img src="https://profile-counter.glitch.me/Rushberry/count.svg">
 
 Counting of visitors to this page in this section started from May 1, 2022
 
